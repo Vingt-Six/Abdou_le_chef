@@ -324,4 +324,14 @@ header {
     .topbio {
         flex-direction: column-reverse;
     }
+    header {
+        flex-direction: column;
+    }
+    .search {
+        display: none;
+    }
+    .connect {
+        width: 100%;
+        justify-content: space-evenly;
+    }
 }
